@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Profile Redirect",
+  "version": "1.0",
+  "description": "Redirect to your GitHub profile with a button click.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "ihih.jpeg"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
